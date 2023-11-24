@@ -1,0 +1,14 @@
+{
+  "name": "react-microfrontend",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "^7.4.2"
+  },
+  "scripts": {
+    "start": "lerna run start",
+    "build": "lerna run build"
+  }
+}

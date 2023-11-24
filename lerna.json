@@ -1,0 +1,4 @@
+{
+  "$schema": "node_module/lerna/shcemas/lerna-schema.json",
+  "version": "independent"
+}
